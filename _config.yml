@@ -26,4 +26,4 @@ defaults:
     values:
       layout: default
 
-markdown: kramdown
+markdown: GFM
